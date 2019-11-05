@@ -15,3 +15,7 @@ git clone https://github.com/gdut-network-manager/netter.git --depth=1
 cd netter
 go build
 ```
+
+# 使用截图
+
+![截图](screenshot.png)
